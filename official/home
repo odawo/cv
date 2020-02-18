@@ -5,7 +5,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="Efficient developer in Mobile and Website Development">
 		<meta name="author" content="Developer Odawo">
-		<link rel="stylesheet" type="text/css" href="home-css">
+		<link rel="stylesheet" type="text/css" href="stylesheets/home-css">
+		<script type="text/javascript" src="scripts/home-scr"></script>
 		<title>Home</title>
 
 		
@@ -33,11 +34,11 @@
 		</div>
 
 		<aside>
-			<p class="no">+254 728 747971 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fkenyan-flag-colors-vector-splash-design-kenyan-flag-colors-vector-art-splash-design-logo-artwork-use-image136898194&psig=AOvVaw1oWkbPKZjp1IEjYj7Mf0MU&ust=1581619811205000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiouI_XzOcCFQAAAAAdAAAAABAD" alt="KE"></p>
+			<p class="no">+254 728 747971 <img src="ke gif" alt="KE"></p>
 		</aside>
 
 		<footer>
-			<p>&copy; COPYRIGHT OF ODAWO DEVELOPMENT, 2020</p>
+			<p>&copy; COPYRIGHT OF DASH DEVELOPMENT, 2020</p>
 		</footer>
 
 	</body>
