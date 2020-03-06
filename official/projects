@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Efficient developer in Mobile and Website Development">
+	<meta name="author" content="Developer Odawo">
+	<link rel="stylesheet" type="text/css" href="stylesheets/css-styles">
+	<script type="text/javascript" src="scripts/home-scr"></script>
+	<title>Projects</title>
+</head>
+<body>
+
+	<nav>
+		<ul style="list-style-type: none">
+			<a href="home.html"><li>home</li></a>
+			<a href="#"><li>projects</li></a>
+			<a href="about.html"><li>about</li></a>
+			<a href="Contact.html"><li>contact</li></a> 
+		</ul>
+	</nav>
+
+	<div id="main-content">
+		<div id="content">
+			<div id="row">
+
+				<div class="my-projects">
+					<div id="project-description">
+						<a href="#"><img src="" alt="project 1"></a>
+						<h2>Project 1</h2>
+						<p>project description<a href="#">more</a></p>
+					</div>
+					<div id="project-description">
+						<a href="#"><img src="" alt="project 1"></a>
+						<h2>Project 1</h2>
+						<p>project description<a href="#">more</a></p>
+					</div>
+					<div id="project-description">
+						<a href="#"><img src="" alt="project 1"></a>
+						<h2>Project 1</h2>
+						<p>project description<a href="#">more</a></p>
+					</div>
+					<div id="project-description">
+						<a href="#"><img src="" alt="project 1"></a>
+						<h2>Project 1</h2>
+						<p>project description<a href="#">more</a></p>
+					</div>
+					<div id="project-description">
+						<a href="#"><img src="" alt="project 1"></a>
+						<h2>Project 1</h2>
+						<p>project description<a href="#">more</a></p>
+					</div>
+					<div id="project-description">
+						<a href="#"><img src="" alt="project 1"></a>
+						<h2>Project 1</h2>
+						<p>project description<a href="#">more</a></p>
+					</div>
+					<div id="project-description">
+						<a href="#"><img src="" alt="project 1"></a>
+						<h2>Project 1</h2>
+						<p>project description<a href="#">more</a></p>
+					</div>
+				</div>
+
+				<div class="my-project-display">
+					<div class="container">
+						<video></video>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+
+	<footer>
+		<p>&copy; COPYRIGHT OF ODAWO DEVELOPMENT, 2020</p>
+	</footer>
+
+</body>
+</html>
