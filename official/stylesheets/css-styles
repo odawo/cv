@@ -4,12 +4,19 @@ body{
 
 nav{
 	background-color: black;
-	horizontal-align: middle;
+	/*horizontal-align: middle;*/
 	margin: -15px;
+	padding: 10px;
 	width : ;
+}
+
+nav:acive{
+	text-decoration: underline;
 }
 
 nav li{
 	color: #bcb9c9;
 	display: inline-block;
+	margin: 10px;
+	font-size: 30px;
 }
